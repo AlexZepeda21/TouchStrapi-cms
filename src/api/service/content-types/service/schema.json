@@ -60,6 +60,14 @@
         "images",
         "files"
       ]
+    },
+    "long_description": {
+      "type": "text",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
     }
   }
 }
