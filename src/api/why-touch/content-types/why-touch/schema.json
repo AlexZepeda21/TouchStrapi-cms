@@ -1,0 +1,23 @@
+{
+  "kind": "collectionType",
+  "collectionName": "why_touches",
+  "info": {
+    "singularName": "why-touch",
+    "pluralName": "why-touches",
+    "displayName": "WhyTouch"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "reason": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "text",
+      "required": true
+    }
+  }
+}
